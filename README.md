@@ -1,3 +1,5 @@
+<p align="center"><img src=".project/image.png" width="128" alt="iconplugin logo"></p>
+
 # IconPlugin
 
 [![CI](https://github.com/sachahjkl/iconplugin/actions/workflows/ci.yml/badge.svg)](https://github.com/sachahjkl/iconplugin/actions/workflows/ci.yml)

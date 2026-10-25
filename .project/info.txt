@@ -1,0 +1,2 @@
+name=iconplugin
+description=Petit serveur MCP en Go pour Iconify : recherche, parcours et récupération d'icônes en SVG, un seul binaire statique, sans clé d'API.
